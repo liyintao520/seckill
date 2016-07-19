@@ -1,0 +1,23 @@
+SpringMVC + spring + Mybatis整合的项目
+相关技术：
+		
+	用到了缓存 redius
+	日志整合：SLF4J结合Logback
+	数据字典： 用枚举标示我们的常量
+		eg: 1 --秒杀成功
+			2 --秒杀失败
+			
+	页面使用 Bootstrap框架-- 直接嵌套他的模板使用的
+http://www.runoob.com/bootstrap/bootstrap-environment-setup.html
+	
+使用的是  springmvc的   Restful 风格
+
+
+技术回顾：
+	前端交互设计过程
+	Restful接口设计
+	SpringMVC使用技巧
+	Bootstrap 和 js 使用
+
+访问地址：
+直接输入： localhost:8080/seckill/list
